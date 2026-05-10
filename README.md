@@ -76,7 +76,7 @@ Configured via **Group Policy Management Console:**
 - **Linked To:** MARKETING OU
 - **Policy Path:**
   ```
-  Computer Configuration → Administrative Templates → System →  
+  Computer Configuration → Administrative Templates → System → Remove Run from the Start Menu 
   ```
 - **Setting:**
   - ** Remove Run from the Start Menu→ Enabled**
