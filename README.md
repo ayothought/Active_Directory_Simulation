@@ -107,6 +107,6 @@ Configured via **Group Policy Management Console:**
 
 ## 👤 Author
 
-****  
+**Motun Ade**  
 Cybersecurity Analyst
 
