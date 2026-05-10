@@ -87,10 +87,10 @@ Configured via **Group Policy Management Console:**
 
 ## 📸 Screenshots
 
-- [Active Directory Domain Structure]()
-- [GPO Configuration Screenshot]()
-- [Client Joined to Domain]()
-- [USB Access Denied Result]()
+- [Active Directory Domain Structure](https://github.com/ayothought/Active_Directory_Simulation/blob/main/ACTIVE%20DIRECTORY%20STIMULATION.pdf)
+- [GPO Configuration Screenshot](https://github.com/ayothought/Active_Directory_Simulation/blob/main/ACTIVE%20DIRECTORY%20STIMULATION.pdf)
+- [Client Joined to Domain](https://github.com/ayothought/Active_Directory_Simulation/blob/main/ACTIVE%20DIRECTORY%20STIMULATION.pdf)
+- [USB Access Denied Result](https://github.com/ayothought/Active_Directory_Simulation/blob/main/ACTIVE%20DIRECTORY%20STIMULATION.pdf)
 
 
 
